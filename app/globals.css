@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #111827; /* Dark Gray Background */
+  color: #f3f4f6; /* White Text */
+}
+
+.container-custom {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
