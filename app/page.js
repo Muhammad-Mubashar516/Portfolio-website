@@ -30,7 +30,7 @@ export default function Home() {
         
         {/* 👇 RESUME DOWNLOAD BUTTON */}
         <a 
-          href="/resume.pdf" 
+          href="/Resume.pdf" 
           download="Don_Developer_Resume.pdf" // Download hone par ye naam aayega
           className="flex items-center gap-2 border-2 border-white text-white px-8 py-3 rounded-full font-bold hover:bg-white hover:text-black transition shadow-lg"
         >
